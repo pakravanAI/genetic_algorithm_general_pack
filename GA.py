@@ -241,7 +241,9 @@ class SSlection():
 
                     
 
-print(SSlection.mate_finder([1,2,3],[10,9,1]))
+#thanck you for seeing this it has been fun making this
+#i would say go tell your friends about this cool repo but if you are reading this i dont think you will have friends(in case you do tell them)
+
     
 
 
