@@ -1,6 +1,6 @@
 from random import randint
 
-#j,hgkg,kjuyrjytrte
+#j,hgkg,kjuyrjytrtegjugu,tyutu
 start = 0
 finish = 100
 
